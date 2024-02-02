@@ -1,5 +1,6 @@
 # GlobalSuperStore_Dashboard
 
+Link to my video presentation - https://drive.google.com/file/d/1wY1JrJYXZ9R6iT7Ss9BG12NRh3Jiz7-J/view?usp=sharing
 
 ### Introduction
 Welcome to the project presentation for the Global Superstore Dashboard. In this presentation, we will explore the key insights, features, and visualizations that the dashboard provides based on the Global Superstore dataset.
